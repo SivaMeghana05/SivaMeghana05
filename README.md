@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+[![An image of @sivameghana05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sivameghana05)](https://holopin.io/@sivameghana05)
+
+
+<!--  
 **SivaMeghana05/SivaMeghana05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
